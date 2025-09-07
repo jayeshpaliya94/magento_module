@@ -15,3 +15,17 @@ COD payment disable for that category : https://github.com/vijayrami/Magelearn_R
 checkout page adding new step : https://github.com/vijayrami/Magelearn_NewStepCheckout
 checkout page custom fees add: https://github.com/vijayrami/Magelearn_CustomFee
 order notes : https://github.com/vijayrami/Magelearn_OrderNote
+composer require mageprince/magento2-extrafee
+composer require mageprince/magento2-paymentfee
+composer require mageprince/module-faq
+composer require mageprince/module-log-viewer
+composer require magepsycho/magento2-custom-shipping
+composer require magepsycho/magento2-discountlimit
+https://github.com/MagePsycho/magento2-product-discount-label
+https://github.com/MagePsycho/magento2-starter-theme - themes.
+https://github.com/magepal/magento2-custom-shipping-rate
+https://github.com/magenizr/Magenizr_AdminUser
+https://github.com/magenizr/Magenizr_AdminBranding
+https://github.com/magenizr/Magenizr_HideShippingMethod  - by customber group or weekend base hide shiiping methods.
+https://github.com/evgv/magento-shipping-methods-for-customer-group
+
